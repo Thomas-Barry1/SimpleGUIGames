@@ -1,2 +1,2 @@
 # SimpleGUIGames
-Games I Created For a Object Oriented Programming Class
+Games I Created For an Object Oriented Programming Class
